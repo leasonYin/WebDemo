@@ -2,11 +2,11 @@
 <%@page import="java.sql.Statement"%>
 <%@page import="java.sql.DriverManager"%>
 <%@page import="java.sql.Connection"%>
-<%@ page language="java" contentType="text/html; charset=utf-8" errorPage=""%>
+<%@ page language="java" contentType="text/html; charset=gb2312" errorPage=""%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>applicationæµ‹è¯•</title>
+<title>application²âÊÔ</title>
 </head>
 <body>
 <%
